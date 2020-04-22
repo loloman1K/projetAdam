@@ -1,0 +1,88 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+
+
+}
+.container
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+
+/* header */
+/*logo + nav */
+.uphead
+{
+	display: flex;
+	width: 100%;
+	margin-top: 1vh;
+	margin-left: 5vw;
+}
+
+
+
+.banni
+{
+	 background-color: green;
+
+	 width:100vw;
+	 height:10vh;
+	 color:red;
+	 text-align:center;
+	 margin-top: 3vh;
+	 margin-left: 5vw;
+
+}
+
+h1
+{
+	font-size: 40px;
+}
+
+h2
+{
+	margin-bottom: 3vw;
+	font-size: 30px;
+}
+
+p
+{
+	font-size: 20px;
+}
+
+.Logo
+{
+	border-radius: 30%;
+	height:10vh;
+}
+
+/*corps*/
+
+/* alignement image + texte*/
+
+.block1
+{
+	display: flex;
+	margin-top: 3vh;
+	width: 100vw;
+
+}
+
+/*mise en cologne du block2 : titre + contenu*/
+.block2
+{
+	flex-direction: column;
+	width: 50vw;
+}
+
+/*image presentation*/
+.pictintroduction
+{
+	width: 60vw;
+	margin-left: 5vw;
+	margin-right: 5vw;
+}
