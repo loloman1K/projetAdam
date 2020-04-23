@@ -5,11 +5,11 @@
 
 
 }
-.container
+
+/* ensemble du bloc page*/
+body
 {
-	padding: 0;
-	margin: 0;
-	box-sizing: border-box;
+
 }
 
 
@@ -19,45 +19,54 @@
 {
 	display: flex;
 	width: 100%;
-	margin-top: 1vh;
-	margin-left: 5vw;
+	margin-top: 3vh;
+	margin-left: 3vw;
 }
 
 
 
 .banni
 {
-	 background-color: green;
-
+	 background-color: #bbd98f;
 	 width:100vw;
 	 height:10vh;
-	 color:red;
-	 text-align:center;
+	 text-align: center;
+	vertical-align: middle;
 	 margin-top: 3vh;
-	 margin-left: 5vw;
-
+	 margin-left: 3vw;
 }
 
+nav
+{
+	background-color: #d7c095;
+	width: 100vw;
+}
 h1
 {
 	font-size: 40px;
+	color: #1f2c37;
+ vertical-align: center;
+ margin-left: 3vw;
+ margin-right: 3vw;
 }
 
 h2
 {
 	margin-bottom: 3vw;
 	font-size: 30px;
+	color: #1f2c37;
 }
 
 p
 {
 	font-size: 20px;
+	color: #1f2c37;
 }
 
 .Logo
 {
 	border-radius: 30%;
-	height:10vh;
+	height:20vh;
 }
 
 /*corps*/
@@ -69,7 +78,6 @@ p
 	display: flex;
 	margin-top: 3vh;
 	width: 100vw;
-
 }
 
 /*mise en cologne du block2 : titre + contenu*/
@@ -83,6 +91,6 @@ p
 .pictintroduction
 {
 	width: 60vw;
-	margin-left: 5vw;
-	margin-right: 5vw;
+	margin-left: 3vw;
+	margin-right: 3vw;
 }

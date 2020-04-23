@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="bootstrap-4.4.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style.css">
 
+
   <link rel="stylesheet" href="css/style_tablette.css">
   <link rel="stylesheet" href="css/style_smartphone.css">
 
@@ -23,7 +24,7 @@
 <div class="uphead">
     <img src="data/logo.jpeg" class="Logo" alt="Logo du site" title="Logo du site" style="margin-right:5%;">
 
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <nav class="navbar navbar-expand-lg navbar-light bg-ligh">
 
   <a class="navbar-brand" href="#"><h1>Acceuil</h1></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

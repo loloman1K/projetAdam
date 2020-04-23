@@ -7,7 +7,7 @@ require 'php/bdd.php';
 
 
 
-<div class="container">
+
 
   <div class="banni">
       <h1>Pour les yeux d'Adam</h1>
@@ -28,7 +28,7 @@ require 'php/bdd.php';
 
 
 
-</div>
+
 
 
 
