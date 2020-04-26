@@ -27,7 +27,10 @@ require 'php/bdd.php';
                     </div>
 
 
+                    <?php
 
+                  AfficheArticleHome();
+                    ?>
 
 
 
