@@ -5,7 +5,7 @@ function AfficheArticleHome($idget)
 {
   $dbh = new PDO('mysql:host=localhost;dbname=Adam', 'root', 'root');
 
-  $reponse = $dbh->query('SELECT * FROM article WHERE article_id=1');
+$reponse = $dbh->query('SELECT * FROM article');
   while ($donnees = $reponse->fetch()) {
     echo "<article>
 

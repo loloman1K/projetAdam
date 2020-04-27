@@ -28,8 +28,8 @@ require 'php/bdd.php';
 
 
                     <?php
-
-                  AfficheArticleHome();
+/* Lien vers la base de donnée */
+             AfficheArticleHome($id=1);
                     ?>
 
 
