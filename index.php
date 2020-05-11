@@ -25,15 +25,15 @@ require 'php/bdd.php';
                         </p>
                       </div>
                     </div>
-
-
+<section>
+<article>
                     <?php
-/* Lien vers la base de donnée */
-             AfficheArticleHome($id=1);
+/* Lien vers la base de donnée table Article */
+          AfficheArticleHome($id=1);
                     ?>
 
-
-
+</article>
+</section>
 
 
 

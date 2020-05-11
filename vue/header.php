@@ -45,14 +45,14 @@
           </div>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="camps.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            <h1>CAMPS</h1>
+          <a class="nav-link dropdown-toggle" href="camsp.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <h1>CAMSP</h1>
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="camps.php">Présentation du Camps</a>
-            <a class="dropdown-item" href="archiveEvenement.php">Evenement du Camps</a>
+            <a class="dropdown-item" href="camsp.php">Présentation du Camsp</a>
+            <a class="dropdown-item" href="archiveEvenement.php">Evenement du Camsp</a>
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="#">Problématique du Camps</a>
+            <a class="dropdown-item" href="#">Problématique du Camsp</a>
           </div>
         </li>
         <li class="nav-item">
