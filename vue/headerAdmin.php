@@ -7,13 +7,13 @@
 
   <meta charset="utf-8">
 
-  <link rel="stylesheet" href="js/jquery-ui-1.12.1/jquery-ui.css">
-  <link rel="stylesheet" href="bootstrap-4.4.1/css/bootstrap.min.css">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="../js/jquery-ui-1.12.1/jquery-ui.css">
+  <link rel="stylesheet" href="../bootstrap-4.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../css/style.css">
 
 
-  <link rel="stylesheet" href="css/style_tablette.css">
-  <link rel="stylesheet" href="css/style_smartphone.css">
+  <link rel="stylesheet" href="../css/style_tablette.css">
+  <link rel="stylesheet" href="../css/style_smartphone.css">
 
   <title>Pour les Yeux d'Adam</title>
 
@@ -22,7 +22,7 @@
 <body>
 
 <div class="uphead">
-    <a href="admin.php"><img src="data/logo.jpeg" class="Logo" alt="Logo du site" title="Logo du site" style="margin-right:5%;"></a>
+    <a href="index.php"><img src="../data/logo.jpeg" class="Logo" alt="Logo du site" title="Logo du site" style="margin-right:5%;"></a>
 
   <nav class="navbar navbar-expand-lg navbar-light bg-ligh">
 
